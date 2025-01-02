@@ -7,7 +7,6 @@ ProPrep AI is a virtual interviewer chatbot designed to help job seekers practic
 - **Resume-Based Questioning**: Upload your resume, and ProPrep AI will generate interview questions tailored to your skills, experience, and achievements.
 - **Interactive Chat Interface**: Engage in a simulated interview environment through a conversational chatbot.
 - **Real-Time Feedback**: Receive instant, actionable feedback to improve your responses.
-- **Customizable Practice**: Choose the type of interview (behavioral, technical, or mixed).
 - **Progress Tracking**: Monitor your improvement over time.
 
 ## Installation
